@@ -1,0 +1,55 @@
+전체적인 틀 짜기
+<head>
+타이틀 지정
+사용할 폰트랑,CSS 링크 걸어주기 <link rel="stylesheet" href="style.css
+
+<body>
+주요 내용 header main footer 로 구분 지어서 파트별로 뼈대 만들기
+<h1> 이용해서 제목 만들기 
+이미지 넣기 src로 이미지 주소 넣고 alt 통해서 넣은 이미지 내용 설명하기 
+
+<style.css>
+body 쪽 배경색깔 변경하기
+h1 이용해서 만든 제목 사이즈 조정하고 색깔 변경
+header 쪽 인라인요소인 (이미지랑 텍스트) 중앙 맞추기 text-align: center;
+header img 통해서 이미지 크기 조정하기 size X width O
+(img가 아닌 header img라 하는 이유 다른 작업을 할 때 이미지가 한 개가 아닐 수 있기 때문)
+
+<main>
+h2 이용해서 부제목 만들기
+p 이용해서 내용 쓰기
+ul 이용해서 순서없는 목록 쓰기
+안에 li 이용해서 내용 쓰기
+p 이용해서 내용 쓰기 마지막 문단에 a 앵커태그 넣어 하이퍼링크 넣기
+
+<style.css>
+main쪽 배경색깔 변경
+padding과 margin 이용해서 박스 위치 옮기기 (text-align 사용하면 글자만 중앙으로 옮겨져셔 X)
+모서리 둥글게 border-radius
+색깔 변경
+
+<style.css>
+ul 마진,패딩 0으로 맞추고 list-style로 점 없애주기
+li 마진 패딩 조정해주고 제목보다 들여쓰기 해주기
+원하는 li에 class 만들어주고 class통해서 노란색 표 만들기
+html에 span 통해서 클래스 만들어주고, css통해서 structure에 마찬가지로 font-weitght 넣어서 굵게 만들기
+
+<style.css>
+a 앵커태그에 밑줄 없애주기 text-decoration
+색깔 바꾸기
+배경화면 색깔 바꾸기
+패딩 조절
+모서리 둥글게
+a:hover, a:active 이용해서 뒷배경 색깔 조정 
+
+<footer>
+a 이용해서 pdf 파일 넣기 targer="_blank" 지정해서 클릭하면 다음창에서 열 수 있게하기
+p 이용해서 회사 넣기
+
+<style.css>
+footer text-align 통해서 센터 맞추기
+footer p 색깔 바꾸고 마진 조절
+footer a 패딩 모서리 조절하고 뒷배경 색깔이랑 글씨 색깔 바꾸기
+footer a:hover,a:active 뒷배경 색깔 조정
+
+
