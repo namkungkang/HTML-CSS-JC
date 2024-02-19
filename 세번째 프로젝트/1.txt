@@ -1,0 +1,22 @@
+3project
+뼈대 만들기
+<index.html>
+ <head>
+타이틀 지어주기
+링크 걸어주기 rel=stylesheet href=stlye.css
+링크 이용해서 구글폰트 설정하기
+</head>
+
+바디라인 구성
+<body>
+<header>
+<div></div>
+<nav></nav>
+</header>
+<main>
+<section></section>
+<section></section>
+</main>
+<footer></footer>
+</body>
+div(division의 약자) *block 요소
