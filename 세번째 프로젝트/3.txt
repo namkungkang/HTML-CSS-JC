@@ -33,5 +33,6 @@ background-size:cover (배경사진 사이즈 맞추기)
 width 조절
 box-shadow
 rgba 통해서 불투명 조절하기
+margin 0 auto 는 좌우정렬
 position: relative 이걸 사용해야 블록을 상하조정 가능 반대로 static이 있음
 top:200px
