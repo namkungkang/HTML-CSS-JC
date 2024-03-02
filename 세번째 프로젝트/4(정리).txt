@@ -1,1 +1,4 @@
 position: absolute
+width,height 개념
+object fit
+
